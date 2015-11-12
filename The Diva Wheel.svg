@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="535px" height="539px" viewBox="0 0 535 539" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Dodecagon" sketch:type="MSLayerGroup" transform="translate(27.000000, 28.000000)" stroke-width="2.5" stroke="#000000" fill="#FFFFFF">
+            <g id="layer1" sketch:type="MSShapeGroup">
+                <path d="M480.86742,240.72374 L448.71352,360.72374 L360.86742,448.56984 L240.86742,480.72374 L120.86742,448.56984 L33.0213231,360.72374 L0.86742,240.72374 L33.0213231,120.72374 L120.86742,32.8776431 L240.86742,0.72374 L360.86742,32.8776431 L448.71352,120.72374 L480.86742,240.72374 L480.86742,240.72374 Z" id="path1295"></path>
+            </g>
+        </g>
+        <text id="Dolly" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="250" y="14">Dolly</tspan>
+        </text>
+        <text id="Madonna" sketch:type="MSTextLayer" transform="translate(398.096788, 44.861216) rotate(-330.000000) translate(-398.096788, -44.861216) " font-family="Helvetica" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="367.096788" y="50.3612159">Madonna</tspan>
+        </text>
+        <text id="Cher" sketch:type="MSTextLayer" transform="translate(492.361216, 134.106406) rotate(-300.000000) translate(-492.361216, -134.106406) " font-family="Helvetica" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="476.361216" y="139.606406">Cher</tspan>
+        </text>
+        <text id="Liza" sketch:type="MSTextLayer" transform="translate(526.500000, 269.000000) rotate(-270.000000) translate(-526.500000, -269.000000) " font-family="Helvetica" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="512.5" y="274.5">Liza</tspan>
+        </text>
+        <text id="Stevie" sketch:type="MSTextLayer" transform="translate(499.500000, 393.000000) rotate(-240.000000) translate(-499.500000, -393.000000) " font-family="Helvetica" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="478.5" y="398.5">Stevie</tspan>
+        </text>
+        <text id="Ms.-Simone" sketch:type="MSTextLayer" transform="translate(405.024991, 493.861216) rotate(-210.000000) translate(-405.024991, -493.861216) " font-family="Helvetica" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="366.024991" y="499.361216">Ms. Simone</tspan>
+        </text>
+        <text id="Tina" sketch:type="MSTextLayer" transform="translate(270.500000, 530.500000) rotate(-180.000000) translate(-270.500000, -530.500000) " font-family="Helvetica" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="256" y="536">Tina</tspan>
+        </text>
+        <text id="Whitney" sketch:type="MSTextLayer" transform="translate(134.065699, 496.111216) rotate(-150.000000) translate(-134.065699, -496.111216) " font-family="Helvetica" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="106.565699" y="501.611216">Whitney</tspan>
+        </text>
+        <text id="David" sketch:type="MSTextLayer" transform="translate(36.111216, 400.137495) rotate(-120.000000) translate(-36.111216, -400.137495) " font-family="Helvetica" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="16.6112159" y="405.637495">David</tspan>
+        </text>
+        <text id="Prince" sketch:type="MSTextLayer" transform="translate(8.500000, 268.500000) rotate(-90.000000) translate(-8.500000, -268.500000) " font-family="Helvetica" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="-13" y="274">Prince</tspan>
+        </text>
+        <text id="Janet" sketch:type="MSTextLayer" transform="translate(38.611216, 136.271470) rotate(-60.000000) translate(-38.611216, -136.271470) " font-family="Helvetica" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="20.1112159" y="141.77147">Janet</tspan>
+        </text>
+        <text id="Barbra" sketch:type="MSTextLayer" transform="translate(135.168584, 39.861216) rotate(-30.000000) translate(-135.168584, -39.861216) " font-family="Helvetica" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="112.168584" y="45.3612159">Barbra</tspan>
+        </text>
+    </g>
+</svg>
